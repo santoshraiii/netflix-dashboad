@@ -10,16 +10,22 @@ This repository contains a Tableau dashboard created using the Netflix dataset. 
 ## Table of Contents
 
 - [Description](#description)
+- [Tableau Dashboard Link](#tableau-dashboard-link)
 - [Content](#content)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Tableau Dashboard Link](#tableau-dashboard-link)
 
 ## Description
 
 The Tableau dashboard presented in this repository aims to provide a comprehensive overview of the Netflix content landscape until the year 2021. By analyzing the data on movies and TV shows, this dashboard visualizes the distribution of content, highlights the top genres, explores the ratings, and provides a geographical representation of content availability across different countries. 
+
+## Tableau Dashboard Link
+
+You can access and interact with the Tableau dashboard by following this [link](https://public.tableau.com/shared/FGTFD9XC6?:display_count=n&:origin=viz_share_link). 
+
+Feel free to explore the visualizations and gain insights into the Netflix content landscape till 2021.
 
 ## Content
 
@@ -56,9 +62,4 @@ Contributions to this project are welcome. If you have any suggestions, enhancem
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Tableau Dashboard Link
 
-You can access and interact with the Tableau dashboard by following this [link](https://public.tableau.com/shared/FGTFD9XC6?:display_count=n&:origin=viz_share_link). 
-
-Feel free to explore the visualizations and gain insights into the Netflix content landscape till 2021.
-```
