@@ -2,9 +2,10 @@
 
 This repository contains a Tableau dashboard created using the Netflix dataset. The dashboard visualizes various aspects of the movies and TV shows available on Netflix until 2021. It offers insights into the distribution of content, top genres, ratings, and a geographical representation of the content distribution across different countries. 
 
+![Screenshot 2023-10-21 124057](https://github.com/santoshraiii/netflix-dashboad/assets/128511075/dc4a4866-a481-4195-b1ab-1946e505d68e)
+
 ![image](https://github.com/santoshraiii/netflix-dashboad/assets/128511075/39432077-71f0-49e8-b803-d972c738006e)
 
-![Screenshot 2023-10-21 124057](https://github.com/santoshraiii/netflix-dashboad/assets/128511075/dc4a4866-a481-4195-b1ab-1946e505d68e)
 
 ## Table of Contents
 
